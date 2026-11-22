@@ -1,0 +1,11 @@
+{
+  "name": "mend",
+  "version": "1.0.0",
+  "description": "Applies AI-written edits in four formats to a tree of text files, to SPEC.md v1.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": "22"
+  }
+}
